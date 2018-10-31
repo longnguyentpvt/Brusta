@@ -1,0 +1,264 @@
+@media (min-width: 1200px) {
+}
+
+@media (max-width: 1199px) {
+
+}
+
+@media (max-width: 1111px) {
+    /*HOME BANNER*/
+    #home-banner .banner-description {
+        width: 60%;
+    }
+    /*END HOME BANNER*/
+}
+
+@media (min-width: 992px) {
+
+}
+
+@media (max-width: 991px) {
+    /*MENU*/
+    #logo {
+        padding-top: 40px;
+    }
+
+    #brusta-header > .menu > ul {
+        width: 480px;
+    }
+
+    #home-banner .banner-description {
+        width: 100%;
+    }
+    /*MENU*/
+
+
+    /*HOME PAGE*/
+    #home-content .home-section .two-element > ul > li {
+        width: 100%;
+    }
+
+    #home-banner .banner-description .desc-content {
+        position: absolute;
+        bottom: 20px;
+        width: 100%;
+    }
+
+    #home-content .home-section .three-element .element {
+        width: 100% !important;
+    } 
+
+    #home-content .home-section .three-element .element.left-element .child-element {
+        width: 50%;
+        float: left;
+    }
+    /*END HOME PAGE*/
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    /*OUR PUMPS*/
+    #story-content > .story-row .left-story.small {
+        width: 0%;
+    }
+
+    #story-content > .story-row .right-story.big {
+        width: 100%;
+    }
+
+    #story-content > .story-row .right-story {
+        float: initial;
+    }
+
+    #story-content > .story-row > .right-story.brusta-miracle-bg {
+        height: 100%;
+        width: 100%;
+    }
+
+    #story-content > .story-row > .left-story {
+        width: 100%;
+
+    }
+
+    /*THE STORY*/
+    #story-content > .story-row .text-and-image {
+        position: absolute;
+        width: 100%;
+    }
+
+    #story-content > .story-row .right-story .tb-cell {
+        vertical-align: initial;
+        padding-top: 150px;
+    }
+
+    #story-video > .cover > .cover-image .content-body p {
+        width: 350px;
+        margin: 0 auto;
+    }
+
+    /*END THE STORY*/
+}
+
+@media (max-width: 767px) {
+    /*HOME PAGE*/
+    .container {
+        padding: 0;
+    }
+
+    #logo {
+        padding-top: 80px;
+    }
+
+    #brusta-header .header-link.left {
+        left: 50%;
+        margin-left: -119px;
+    }
+
+    #brusta-header .header-link.right {
+        right: 50%;
+        margin-right: -159px;
+        top: 45px;
+    }
+
+    #home-banner .banner-description .desc-content h2 {
+        font-size: 25px;
+    }
+
+    #home-banner .banner-description .desc-content .desc-par .sub-title {
+        font-size: 20px;
+    }
+
+
+    #home-content .home-section .two-element .element .description.gradient-desc .desc-content > h3 {
+        font-size: 30px;
+    }
+
+    #home-content .home-section .two-element .element .description.gradient-desc .desc-content > p {
+        font-size: 20px;
+    }
+
+    #home-content .home-section .two-element .element.inside-desc .description .desc-content p {
+        font-size: 20px;
+    }
+
+    #home-content .home-section .element.inside-desc {
+    }
+
+    #home-content .home-section .three-element .element.left-element .child-element {
+        width: 100%;
+    }
+
+    #home-content .home-section .element .description .sub-title {
+        font-size: 20px;
+    }
+
+    #home-content .home-section .element .description .desc-par {
+        padding-top: 0;
+    }
+
+    #brusta-footer .footer-link ul {
+        display: table;
+        margin: 0 auto;
+    }
+
+    #brusta-footer .footer-link .right ul {
+        float: none;
+    }
+
+    #brusta-gallery > .controls .slider-ctrl.right-ctrl {
+        margin-right: 10px;
+    }
+
+    #brusta-gallery > .controls .slider-ctrl.left-ctrl {
+        margin-left: 10px;
+    }
+    /*END HOME PAGE*/
+    /*OUR PUMPS*/
+    #pumps-banner > .cover > .cover-image > .right-content {
+        float: right;
+        width: 100%;
+        text-align: center;
+    }
+
+    #pumps-banner > .cover > .cover-image .content-body p {
+        width: 300px;
+        margin: 0 auto;
+    }
+
+    #story-content > .story-row > .left-story {
+        width: 100%;
+    }
+
+    #story-content > .story-row .left-story.small {
+        width: 0%;
+    }
+
+    #story-content > .story-row .right-story.big {
+        width: 100%;
+    }
+
+    #story-content > .story-row .right-story {
+        float: initial;
+        position: absolute;
+    }
+
+    #story-content > .story-row > .right-story.brusta-miracle-bg {
+        height: 100%;
+        width: 100%;
+        background-size: 100%;
+    }
+
+    /*END OUR PUMPS*/
+
+    /*THE STORY*/
+    #story-video > .cover > .cover-image > .left-content {
+        width: 100%;
+
+    }
+
+    #story-content > .story-row .body p {
+        width: 300px;
+        margin: 0 auto;
+    }
+
+    #story-video > .cover > .cover-image .content-body p {
+        width: 350px;
+        margin: 0 auto;
+    }
+
+    #story-content > .story-row img {
+        height: 500px;
+        padding: 0px;
+        margin-top: 120px;
+    }
+    #story-content > .story-row .text-and-image {
+        position: absolute;
+        width: 100%;
+    }
+
+    /*Milk Nutrition*/
+    #nutrition-banner > .cover > .cover-image > .right-content {
+        float: right;
+        width: 100%;
+        text-align: center;
+    }
+
+    #nutrition-banner > .cover > .cover-image .content-body p {
+        width: 300px;
+        margin: 0 auto;
+    }
+
+    /*END Milk Nutrition*/
+}
+
+
+@media (max-width: 600px) {  
+    #home-content .home-section .element.inside-desc {
+        background-size: 100%;
+    }
+}
+
+@media (max-width: 450px) { 
+    #home-content .home-section .element.inside-desc {
+        background-position: center 80px;
+    }
+}
